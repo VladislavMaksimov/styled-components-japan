@@ -1,5 +1,6 @@
 import React from "react";
 import styled from "styled-components";
+import CircleWrapper from "./CircleWrapper";
 import Footer from "./Footer";
 
 import Header from "./Header";
@@ -25,6 +26,7 @@ const CardContent = () => (
     <Header />
     <Main />
     <Footer />
+    <CircleWrapper />
   </ContentWrapper>
 );
 
