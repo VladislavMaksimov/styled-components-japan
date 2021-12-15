@@ -2,6 +2,7 @@ import React from "react";
 import styled from "styled-components";
 
 import CardContent from "./CardContent";
+import background from "../../assets/japan.jpg"
 
 const ContentWrapper = styled.div`
   width: 100%;
@@ -9,7 +10,7 @@ const ContentWrapper = styled.div`
   height: auto;
   max-height: 800px;
 
-  background: url(../../assets/japan.jpg) no-repeat center;
+  background: url(${background}) no-repeat center;
   background-size: cover;
   border-radius: 10px;
 `;
