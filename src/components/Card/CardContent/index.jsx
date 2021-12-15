@@ -2,6 +2,7 @@ import React from "react";
 import styled from "styled-components";
 
 import Header from "./Header";
+import Main from "./Main";
 
 const ContentWrapper = styled.div`
   width: 100%;
@@ -21,6 +22,7 @@ const ContentWrapper = styled.div`
 const CardContent = () => (
   <ContentWrapper>
     <Header />
+    <Main />
   </ContentWrapper>
 );
 
