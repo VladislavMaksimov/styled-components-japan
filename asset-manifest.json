@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.b4c1dc28.css",
-    "main.js": "/static/js/main.ffc37721.js",
-    "static/media/japan.jpg": "/static/media/japan.35c8b3f1fce6b10cfc61.jpg",
-    "static/media/MuktaMalar-ExtraBold.ttf": "/static/media/MuktaMalar-ExtraBold.c237d7f8e5364837b00b.ttf",
-    "static/media/MuktaMalar-Regular.ttf": "/static/media/MuktaMalar-Regular.526fe0dfa89083d3644b.ttf",
-    "static/media/MuktaMalar-SemiBold.ttf": "/static/media/MuktaMalar-SemiBold.3544447526a883193e57.ttf",
-    "static/media/MuktaMalar-Light.ttf": "/static/media/MuktaMalar-Light.f144acf453e7f0f4a660.ttf",
-    "index.html": "/index.html",
-    "main.b4c1dc28.css.map": "/static/css/main.b4c1dc28.css.map",
-    "main.ffc37721.js.map": "/static/js/main.ffc37721.js.map"
+    "main.css": "/styled-components-japan/static/css/main.7d61bc16.css",
+    "main.js": "/styled-components-japan/static/js/main.2cc56bd8.js",
+    "static/media/japan.jpg": "/styled-components-japan/static/media/japan.35c8b3f1fce6b10cfc61.jpg",
+    "static/media/MuktaMalar-ExtraBold.ttf": "/styled-components-japan/static/media/MuktaMalar-ExtraBold.c237d7f8e5364837b00b.ttf",
+    "static/media/MuktaMalar-Regular.ttf": "/styled-components-japan/static/media/MuktaMalar-Regular.526fe0dfa89083d3644b.ttf",
+    "static/media/MuktaMalar-SemiBold.ttf": "/styled-components-japan/static/media/MuktaMalar-SemiBold.3544447526a883193e57.ttf",
+    "static/media/MuktaMalar-Light.ttf": "/styled-components-japan/static/media/MuktaMalar-Light.f144acf453e7f0f4a660.ttf",
+    "index.html": "/styled-components-japan/index.html",
+    "main.7d61bc16.css.map": "/styled-components-japan/static/css/main.7d61bc16.css.map",
+    "main.2cc56bd8.js.map": "/styled-components-japan/static/js/main.2cc56bd8.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4c1dc28.css",
-    "static/js/main.ffc37721.js"
+    "static/css/main.7d61bc16.css",
+    "static/js/main.2cc56bd8.js"
   ]
 }
