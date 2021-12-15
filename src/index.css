@@ -45,3 +45,15 @@ h1 {
   font-style: normal;
   font-weight: 800;
 }
+
+@media only screen and (max-width: 1280px) {
+  html {
+    font-size: 8px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  html {
+    font-size: 10px;
+  }
+}

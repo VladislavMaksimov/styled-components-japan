@@ -7,6 +7,21 @@ const ContentWrapper = styled.footer`
   display: flex;
   justify-content: end;
   margin-top: 50px;
+
+  @media only screen and (max-width: 1600px) {
+    margin-top: 20px;
+  }
+
+  @media only screen and (max-width: 1280px) {
+    margin-top: 15px;
+  }
+
+  @media only screen and (max-width: 768px) {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin-top: 0;
+  }
 `;
 
 const Footer = () => (
